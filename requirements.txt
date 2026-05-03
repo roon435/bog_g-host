@@ -1,0 +1,3 @@
+fastapi
+mangum
+python-multipart
